@@ -1,0 +1,38 @@
+.projects-h1{
+    font-size: 40px;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+}
+
+.addform-input{
+    border-bottom: 2px solid white;
+    padding: 10px;
+}
+
+.addform-input::placeholder{
+    color: whitesmoke;
+    font-size: 13px;
+    opacity: .75;
+}
+
+.addform-btn{
+    margin-left: 10px;
+    border: 2px solid whitesmoke;
+    padding: 10px 15px;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-text{
+    font-size: 16px;
+}
+
+.card-btn{
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+}
